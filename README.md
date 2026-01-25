@@ -3,12 +3,11 @@
 ¡Bienvenido/a a este repositorio! Aquí encontrarás el material desarrollado para las tutorías de Álgebra Lineal. El objetivo es proporcionar guías, pautas y ejercicios resueltos para apoyar el aprendizaje de los conceptos fundamentales y avanzados de la asignatura.
 
 ## Contacto
-Si tienes dudas sobre el material o encuentras algún error en las pautas, puedes escribirme a:
-**Marcelo Alegría** - [marcelo.alegria@pregrado.uoh.cl](mailto:marcelo.alegria@pregrado.uoh.cl)
+Si tienes dudas sobre el material o encuentras algún error en las pautas, puedes escribirme a: - [marcelo.alegria@pregrado.uoh.cl](mailto:marcelo.alegria@pregrado.uoh.cl)
 
 ---
 
-## 📚 Contenidos del Repositorio
+## Contenidos del Repositorio
 
 El material está organizado según el avance del semestre:
 
