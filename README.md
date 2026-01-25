@@ -1,4 +1,4 @@
-# Tutorías de Álgebra Lineal - Universidad de O'Higgins
+# Tutorías de Álgebra Lineal (q) - TuPar Universidad de O'Higgins
 
 ¡Bienvenido/a a este repositorio! Aquí encontrarás el material desarrollado para las tutorías de Álgebra Lineal. El objetivo es proporcionar guías, pautas y ejercicios resueltos para apoyar el aprendizaje de los conceptos fundamentales y avanzados de la asignatura.
 
